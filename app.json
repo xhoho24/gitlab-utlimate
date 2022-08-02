@@ -1,0 +1,41 @@
+{
+    "name": "Multi Upload Telegram Bot",
+    "description": "A Powerful Base For Telethon Bots",
+    "logo": "",
+    "keywords": [
+        "telegram",
+        "telethon",
+        "telegram-bot"
+    ],
+    "env": {
+        "API_HASH": {
+            "description": "Api Hash",
+            "value": ""
+        },
+        "APP_ID": {
+            "description": "Api Id",
+            "value": ""
+        },
+        "BOT_TOKEN": {
+            "description": "Bot Token That You Got From @botfather",
+            "value": ""
+        },
+        "PROXY": {
+            "description": "Ip & port for Proxy",
+            "value": ""
+        },
+        "ADMIN": {
+            "description": "Yr TG ID here bitch",
+            "value": ""
+        },
+        "LOG_CHANNEL": {
+            "description": "Channel to Log Activities",
+            "value": ""
+        }
+    },
+    "buildpacks": [
+        {
+            "url": "heroku/python"
+        }
+    ]
+}
