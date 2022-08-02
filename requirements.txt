@@ -1,0 +1,13 @@
+requests
+requests[socks]
+bs4
+user_agent
+youtube_dl
+#pathlib==1.0
+#mega-pip
+#mega.py==1.0.6
+requests_toolbelt
+telethon
+tenacity
+python-gitlab
+tqdm

@@ -1,0 +1,60 @@
+☺️Bienvenidos A GITUPBOT☺️
+———————————————-——-
+Desarrollador: @ElJoker63
+
+———————————————-——-
+❗️REQUISITOS A TENER EN CUENTA❗️
+———————————————-——-
+Tener una cuenta en gitlab.com (son gratis)
+
+
+———————————————-——-
+⚙️SOPORTE DE URLS⚙️
+———————————————-——-
+apkpure
+mediafire (Archivos)
+Youtube (Nota: Descargas un poco lentas)
+cualquier enlace directo funciona
+
+-Para generar un enlace de un archivo de telegram reenvie el archivo a @tg_file_link_bot o @aeware_url_bot y le respondra con un mensaje de varios botones, deje apretado el primer boton y copie el enlace.
+
+
+———————————————-——-
+⚙️COMANDOS DEL BOT⚙️
+———————————————-——-
+/start - Inicia el bot
+/archivos - Ver listado de archivos
+/downjson - Obtener JSON de todos los archivos del repositorio
+/search - Buscar informacion de repositorio
+/own - Muestra los repositorios propios
+/txt - Obtener txt del archivo
+/deleteall - Borrar todos los archivos del repositorio
+/create name - nos permite crear un repositorio nuevo
+/deleteproject id - nos permite eliminar el proyecto que coincide con el id que pasamos
+/borrar - Borrar archivo
+/view - Permite ver la informacion del archivo
+
+/adduser - Añadir usuario nuevo (Solo para administradores)
+/addadmin - Añadir admin nuevo (Solo para administradores)
+/banuser - Eliminar usuario (Solo para administradores)
+/getdb - Obtener la base de datos (Solo para administradores)
+/leerdb - Leer la informacion de la base de datos en el servidor (Solo para administradores)
+
+# comandos de usuario
+/tutorial - Obtener ayuda
+/info - Obtener informacion del usuario
+/zip - Configurar tamaño de los archivos (Aun no disponible)
+/token - Configurar token de autentificacion
+/id - Configurar id del repositorio
+/host - Configurar host en caso que quiera cambiar de servidor
+/path - Configurar la rama a donde se sube al server (Ej. main, master o cualquier otra que hayamos creado)
+/proxy - Configurar proxy (Aun no disponible)
+/crypt - Para encriptar proxy
+/decrypt - Para desencriptar proxy
+/cancel - Cancela las tareas de descarga
+
+
+———————————————-——-
+🥳 ESTO ES TODO 🥳
+———————————————-——-
+Felices descargas
